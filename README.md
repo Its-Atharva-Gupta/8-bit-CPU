@@ -128,7 +128,6 @@ LOADR R1 3      # R1 ← RAM[3]  → R1 = 2
 ## Build Notes
 
 - The project was built incrementally: logic gates → FullAdder → 8-bit ALU → register file → program counter → RAM → control unit → final datapath integration.
-- `.agents/` and `.codex/` directories are IDE/agent workspace metadata and can be ignored.
 
 ---
 
